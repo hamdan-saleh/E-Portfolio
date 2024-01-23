@@ -5,9 +5,14 @@
 <img src="misc/pictures/my picture.jpg"  height="700" />
 </p>
 
-- primary school: Sama aden school
+- Primary school: Sama aden school
+  Qualification: graduated from Sama aden primary school
   school facebook page: https://www.facebook.com/samaa1aden
 - secondry school: Sama aden school
+  Qualification: graduated from Sama aden secondry school
+  School facebook page: https://www.facebook.com/samaa1aden
+- High school: Sama aden school
+  Qualification: graduated from Sama aden high school
   school facebook page: https://www.facebook.com/samaa1aden
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -31,6 +36,13 @@
   SECR 1213 NETWORK COMMUNICATIONS Secton 04 
 -------------------------------------------------------------
   SECI 1013 DISCRETE STRUCTURE Section 05
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+-  skills:
+  1) beginner in c++
+  2) beginner in html
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - ⚡**Im Finna make it out the hood 🗣️🙏**
