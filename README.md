@@ -48,7 +48,7 @@
 - ⚡**Im Finna make it out the hood 🗣️🙏**
 
 <h3 align="left">Connect with me:</h3>
-**hamdansaleh4@gmail.com**
+*hamdansaleh4@gmail.com*
 <p align="left">
 </p>
 
