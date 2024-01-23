@@ -6,13 +6,20 @@
 </p>
 
 - Primary school: Sama aden school
+
   Qualification: graduated from Sama aden primary school
   school facebook page: https://www.facebook.com/samaa1aden
+  
 - secondry school: Sama aden school
+
   Qualification: graduated from Sama aden secondry school
+
   School facebook page: https://www.facebook.com/samaa1aden
+  
 - High school: Sama aden school
+
   Qualification: graduated from Sama aden high school
+
   school facebook page: https://www.facebook.com/samaa1aden
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
