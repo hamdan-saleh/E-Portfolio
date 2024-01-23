@@ -48,7 +48,9 @@
 - ⚡**Im Finna make it out the hood 🗣️🙏**
 
 <h3 align="left">Connect with me:</h3>
-hamdansaleh4@gmail.com
+Gmail: hamdan.saleh2003@graduate.utm.my
+Whatsapp: 0172730164
+
 <p align="left">
 </p>
 
