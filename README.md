@@ -14,9 +14,9 @@
 
 - the subjects im taking this semester:
 -------------------------------------------------------------
-  SECI 1013-Discrete Structure-Section 05
+  SECI 1013 Discrete Structure-Section 05
 -------------------------------------------------------------
-  SECP 1513-Technology and Information System-Section 01
+  SECP 1513 Technology and Information System-Section 01
 -------------------------------------------------------------
   SECD 2523 DATABASE Section 03
 -------------------------------------------------------------
