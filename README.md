@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hamdan Saleh Omar AL-Mohamadi</h1>
 <h3 align="center">A Student In UTM From South Yemen</h3>
 
+<p align="center">
+<img src="misc/pictures/my picture.jpg"  height="700" />
+</p>
+
 - primary school: Sama aden school
   school facebook page: https://www.facebook.com/samaa1aden
 - secondry school: Sama aden school
