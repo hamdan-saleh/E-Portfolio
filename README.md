@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamdan Saleh Omar AL-Mohamadi</h1>
-<h3 align="center">A Student In UTM From South Yemen</h3>
+<h3 align="center">A Student In UTM From Yemen</h3>
 
 <p align="center">
 <img src="misc/pictures/صورة واتساب بتاريخ 1445-07-12 في 02.26.43_682f0ee5.jpg"  height="700" />
